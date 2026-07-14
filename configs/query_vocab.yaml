@@ -1,0 +1,65 @@
+color:
+  - red
+  - blue
+  - green
+  - yellow
+  - white
+  - black
+  - pink
+  - purple
+  - orange
+  - brown
+  - grey
+  - gray
+  - navy
+  - beige
+  - maroon
+  - olive
+
+garment:
+  - shirt
+  - t-shirt
+  - polo shirt
+  - button down shirt
+  - denim jacket
+  - leather jacket
+  - blazer
+  - hoodie
+  - coat
+  - raincoat
+  - jacket
+  - sweater
+  - cardigan
+  - dress
+  - jeans
+  - cargo pants
+  - trousers
+  - skirt
+  - tie
+  - kurta
+  - suit
+
+scene:
+  - office
+  - modern office
+  - park
+  - park bench
+  - street
+  - city
+  - city walk
+  - shopping mall
+  - home
+  - beach
+  - airport
+  - restaurant
+  - cafe
+
+style:
+  - casual
+  - formal
+  - business
+  - business casual
+  - sporty
+  - party
+  - traditional
+  - weekend

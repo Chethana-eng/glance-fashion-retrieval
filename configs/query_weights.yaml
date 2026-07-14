@@ -1,0 +1,11 @@
+weights:
+
+  garment: 0.40
+
+  color: 0.20
+
+  scene: 0.20
+
+  style: 0.10
+
+  full_query: 0.10
